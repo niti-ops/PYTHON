@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"explorer.excludeGitIgnore": false,
+		"search.useGlobalIgnoreFiles": false,
+		"git.enabled": true
+	}
+}
